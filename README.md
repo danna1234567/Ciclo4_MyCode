@@ -7,4 +7,4 @@ Rubén Darío Chacón Barón: Antropólogo recién egresado de la Universidad Na
 
 John Mauricio Barrero JUnco, ingeniero electronico apasionado por el desarrollo. Con conocimientos en Java y Python
 
-mi nombre es Danna Pizarro , estudiante de ultimo año de bachillerato , me encanta aprender sobre las ciencias exactas incluyendo entre mis favoritas la astronomía y es por eso que quiero mejorara mis habilidades en programación.
+mi nombre es Danna Pizarro , estudiante de ultimo año de bachillerato , me encanta aprender sobre las ciencias exactas incluyendo entre mis favoritas la astronomía y es por eso que quiero mejorar mis habilidades en programación.
