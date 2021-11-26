@@ -9,3 +9,5 @@ John Mauricio Barrero JUnco, ingeniero electronico apasionado por el desarrollo.
 
 Mi nombre es Sebastian Gabriel Pedroza Muñoz, tengo 21 años. Soy Técnico en sistemas y actualmente estoy estudiando Psicología en la
 Universidad Pedagógica y Tecnológica de Colombia.
+
+mi nombre es Danna Pizarro , estudiante de ultimo año de bachillerato , me encanta aprender sobre las ciencias exactas incluyendo entre mis favoritas la astronomía y es por eso que quiero mejorara mis habilidades en programación.
