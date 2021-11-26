@@ -6,3 +6,6 @@ Soy Mauricio Alarcon Casallas, tecnologo en analisis y desarrollo de sistemas de
 Rubén Darío Chacón Barón: Antropólogo recién egresado de la Universidad Nacional de Colombia y estudiante del tecnólogo en Análisis y Desarrollo de Sistemas de Información del SENA en modalidad virtual.
 
 John Mauricio Barrero JUnco, ingeniero electronico apasionado por el desarrollo. Con conocimientos en Java y Python
+
+Mi nombre es Sebastian Gabriel Pedroza Muñoz, tengo 21 años. Soy Técnico en sistemas y actualmente estoy estudiando Psicología en la
+Universidad Pedagógica y Tecnológica de Colombia.
